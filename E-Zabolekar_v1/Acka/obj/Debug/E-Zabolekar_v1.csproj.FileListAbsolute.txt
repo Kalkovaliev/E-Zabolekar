@@ -1,0 +1,102 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Acka.dll.config
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Acka.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Acka.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\EntityFramework.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Owin.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\System.Web.Optimization.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\System.Web.Providers.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\WebGrease.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\System.Web.Optimization.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\EntityFramework.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\obj\Debug\E-Zabolekar_v1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\obj\Debug\Acka.dll
+C:\Users\Aleksandar\Documents\Visual Studio 2013\Projects\E-Zabolekar_v1\Acka\obj\Debug\Acka.pdb
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Acka.dll.config
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Acka.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Acka.pdb
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Antlr3.Runtime.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\EntityFramework.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\EntityFramework.SqlServer.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Owin.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\System.Web.Optimization.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\System.Web.Providers.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\WebGrease.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\System.Web.Optimization.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Antlr3.Runtime.pdb
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\EntityFramework.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\EntityFramework.SqlServer.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\obj\Debug\E-Zabolekar_v1.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\obj\Debug\Acka.dll
+C:\Users\Filip\Desktop\E-Zabolekar_v1\Acka\obj\Debug\Acka.pdb
